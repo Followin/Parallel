@@ -1,0 +1,14 @@
+c:\users\pavlo_yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\bin\Debug\Parallel.exe
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\bin\Debug\Parallel.pdb
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\MainWindow.baml
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\MainWindow.g.cs
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\App.g.cs
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel_MarkupCompile.cache
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel.g.resources
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel.Properties.Resources.resources
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel.csproj.GenerateResource.Cache
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel.exe
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\obj\Debug\Parallel.pdb
+C:\Users\Pavlo_Yeremenko\documents\visual studio 2013\Projects\Parallel\Parallel\bin\Debug\ParallelExtensionsExtras.dll
